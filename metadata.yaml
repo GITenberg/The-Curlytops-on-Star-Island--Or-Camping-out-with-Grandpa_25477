@@ -21,6 +21,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
 description: 1918. From the writer of the Bedtime Stories, Uncle Wiggily and The Curlytops
   series of stories for young readers.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25477#The-Curlytops-on-Star-Island--Or-Camping-out-with-Grandpa
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2008-05-15'
 gutenberg_type: Text
